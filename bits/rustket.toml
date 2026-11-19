@@ -1,0 +1,23 @@
+# Release page: https://github.com/Rustket/rustket/releases/tag/0.1.0
+name = "rustket"
+version = "0.1.0"
+
+[platform."macos-aarch64"]
+url = "https://github.com/Rustket/rustket/releases/download/0.1.0/rustket-0.1.0-macos-aarch64.tar.gz"
+sha256 = "7942d62adf05cc6a213750dce05c668704e113f2694aa6ccb66fb45ac7843d06"
+bin = "rustket"
+
+[platform."macos-x86_64"]
+url = "https://github.com/Rustket/rustket/releases/download/0.1.0/rustket-0.1.0-macos-x86_64.tar.gz"
+sha256 = "adb4b9ce3a806ee16698cfde2cfe84692d10b24cc3982ec190621db27dd86243"
+bin = "rustket"
+
+[platform."linux-x86_64"]
+url = "https://github.com/Rustket/rustket/releases/download/0.1.0/rustket-0.1.0-linux-x86_64.tar.gz"
+sha256 = "399af5499b35ad1a44b237d3aaebdb59fdbaa6fa2cd83aa6d9e06033e17c4206"
+bin = "rustket"
+
+[platform."linux-aarch64"]
+url = "https://github.com/Rustket/rustket/releases/download/0.1.0/rustket-0.1.0-linux-aarch64.tar.gz"
+sha256 = "89d3fb4694ee203ace30b55322a7c010cba8e1af716c0100aa65caa5568bc73b"
+bin = "rustket"
